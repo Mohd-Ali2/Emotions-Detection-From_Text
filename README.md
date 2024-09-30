@@ -49,6 +49,17 @@ Make sure to place the dataset file in the project directory.
    cd emotion-detection
    ```
 
+3. Installation
+   ```bash
+   pip install requirements.txt
+   ```
+
+4. Run the Application
+    ```bash
+   streamlit run webui.py
+   ```
+   
+   
 ## Contributing
 If you'd like to contribute, please fork the repository and make changes as needed. Submit a pull request when you're done.
 
