@@ -37,8 +37,7 @@ The dataset used in this project (`emotions.csv`) contains text data along with 
 - `label`: The emotion label corresponding to the text.
 
 Make sure to place the dataset file in the project directory.
-
-## Installation
+## Usage : 
 
 1. Clone the repository:
    ```bash
