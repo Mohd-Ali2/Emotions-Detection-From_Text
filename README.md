@@ -42,11 +42,12 @@ Make sure to place the dataset file in the project directory.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/emotion-detection.git
-   
+   ```
 
 2. Navigate:
    ```bash
    cd emotion-detection
+   ```
 
 ## Contributing
 If you'd like to contribute, please fork the repository and make changes as needed. Submit a pull request when you're done.
