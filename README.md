@@ -6,9 +6,7 @@ This project demonstrates emotion detection from text using Natural Language Pro
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Custom Prediction](#custom-prediction)
 - [Contribution](#Contributing)
 
 
